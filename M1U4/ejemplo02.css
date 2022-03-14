@@ -1,0 +1,29 @@
+h1{
+    color: aqua;
+}
+#violeta {
+    background-color: blueviolet;
+    text-transform: uppercase;
+    text-align: justify;
+    background-position: 50px;
+}
+
+#domicilio {text-size-adjust: 200px;
+    color: blue;
+    font-size: larger;
+    box-shadow: 200px;
+box-decoration-break: initial;}
+
+ul {text-size-adjust: 200px;
+    color: rgb(214, 98, 30);
+    font-size: larger;
+    box-shadow: 200px;
+background-color: aqua;}
+
+a {text-decoration: none;}
+a:hover{background-color: aqua;} 
+
+p{color: aquamarine;
+font-family: Arial, Helvetica, sans-serif;
+font-style: italic;}
+    
