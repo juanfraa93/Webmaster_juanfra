@@ -1,0 +1,72 @@
+h1{
+    color: aqua;
+}
+#violeta {
+    background-color: blueviolet;
+    text-transform: uppercase;
+    text-align: justify;
+    background-position: 50px;
+    width: 250px;
+    height: 250px;
+    box-shadow: 1px 18px 37px 0px rgba(0,0,0,0.75);
+-webkit-box-shadow: 1px 18px 37px 0px rgba(0,0,0,0.75);
+-moz-box-shadow: 1px 18px 37px 0px rgba(0,0,0,0.75);
+}
+
+#domicilio {text-size-adjust: 200px;
+    color: blue;
+    font-size: larger;
+    box-shadow: 200px;
+box-decoration-break: initial;}
+
+ul {text-size-adjust: 200px;
+    color: rgb(214, 98, 30);
+    font-size: larger;
+    box-shadow: 200px;
+background-color: aqua;}
+
+a {text-decoration: none;}
+a:hover{background-color: aqua;} 
+
+p{color: aquamarine;
+font-family: Arial, Helvetica, sans-serif;
+font-style: italic;}
+
+.texto{ column-count: 3;
+    -webkit-column-count: 3;
+    -moz-column-count: 3;
+    column-gap: 15px;
+    -webkit-column-gap: 15px;
+    -moz-column-gap: 15px;
+    column-rule: 2px solid #000000;
+    -webkit-column-rule: 2px solid #000000;
+    -moz-column-rule: 2px solid #000000;
+    margin-top: 20px;
+    text-shadow: -5px 4px 9px rgba(0,0,0,0.6);
+    background: #d25d5d;
+background: linear-gradient(90deg,#d25d5d 0%, #feaaaa 80%);
+background: -webkit-linear-gradient(90deg,#d25d5d 0%, #feaaaa 80%);
+background: -moz-linear-gradient(90deg,#d25d5d 0%, #feaaaa 80%);
+box-shadow: 23px 19px 33px 0px rgba(0,0,0,0.75);
+-webkit-box-shadow: 23px 19px 33px 0px rgba(0,0,0,0.75);
+-moz-box-shadow: 23px 19px 33px 0px rgba(0,0,0,0.75);
+font-family: 'Inspiration', cursive;
+font-size: larger;
+}
+.borde {
+    background: #ff0000;
+    background: radial-gradient(ellipse farthest-corner at center center, #ff0000 0%, rgba(255,0,0,0.99) 100%);
+    background: -webkit-radial-gradient(ellipse farthest-corner at center center, #ff0000 0%, rgba(255,0,0,0.99) 100%);
+    background: -moz-radial-gradient(ellipse farthest-corner at center center, #ff0000 0%, rgba(255,0,0,0.99) 100%);
+margin-top: 50px;
+width: 200px;
+height: 200px;
+padding: 25px;
+border-radius: 0px 200px 200px 200px;
+-webkit-border-radius: 0px 200px 200px 200px;
+-moz-border-radius: 0px 200px 200px 200px;
+border: 10px solid #0700c0;
+
+}
+
+
