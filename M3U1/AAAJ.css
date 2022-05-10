@@ -70,3 +70,11 @@ h1 {font-style: italic;
 .row {background-color: dimgray;}
 
 .col {color: white;}
+
+h3 a:hover {background-color: blue;}
+
+h3 a {text-decoration: none;
+color: crimson;}
+
+main div img {margin-left: 25px;
+margin-bottom: 25px;}
